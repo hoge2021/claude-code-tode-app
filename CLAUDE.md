@@ -29,6 +29,7 @@ src/
 - `npm run e2e` - Run Playwright tests
 - `npm run deploy` - Deploy to Cloudflare
 - `npm run db:migrate` - Run D1 migrations
+- `npm run lint` - Run lint with the following command after major edits
 
 ## Development Rules
 
